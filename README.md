@@ -1,6 +1,11 @@
 # Filling Liquid Animation
 
-A CSS glass of liquid is filled with some JavaScript animations. I have used [this codepen demo by ElaineXu](https://codepen.io/ElaineXu/pen/jAzGAw) as boilerplate.
+A CSS glass of liquid is filled with some JavaScript animations:
+https://www.mkronenfeld.de/filling-liquid-animation/
+
+I have used [this codepen demo by ElaineXu](https://codepen.io/ElaineXu/pen/jAzGAw) as boilerplate.
+
+## Demo
 
 ## Getting Started
 
